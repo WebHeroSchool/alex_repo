@@ -1,0 +1,1 @@
+:09.08.2020: The next text added here. The work was made from other computer, so I needed to make a new :commit: and enter the next text here.
